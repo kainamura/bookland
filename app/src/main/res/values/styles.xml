@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Divider">
+        <item name="android:layout_marginStart">24dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_marginEnd">24dp</item>
+        <item name="android:background">@color/divider_color</item>
+    </style>
+
+    <style name="AppTitleName">
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_weight">.95</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:textSize">21dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginStart">12dp</item>
+    </style>
+
+    <style name="MenuOpener">
+        <item name="android:layout_width">56dp</item>
+        <item name="android:layout_height">56dp</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_weight">.05</item>
+    </style>
+</resources>

@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">BookLand</string>
+    <string name="detail_author">Autor:</string>
+    <string name="detail_gender">Gênero:</string>
+    <string name="detail_year">Data de Lançamento:</string>
+    <string name="detail_publisher">Editora:</string>
+    <string name="book_land">Book Land</string>
+    <string name="about_title">Quem somos nós?</string>
+    <string name="about_text">
+        A Book Land foi criada com o objetivo de promover a democratização da leitura, sempre buscando levar aos
+        nossos leitores as melhores histórias e aprendizados pelo preço mais acessível. Nós nascemos no ano de 2019,
+        e com o apoio da comunidade de leitores e dos nossos patrocinadores, cada vez mais nós estamos alcançado nosso
+        objetivo e crescendo como empresa. \n\n
+        Se deseja entrar em contato com a gente para adquirir aquele livro que você espera a meses para ler, e ainda
+        não havia encontrado ele por um preço barato, ou se até mesmo deseja conferir a possibilidade de fazer parte da
+        nossa equipe de funcionários, não perca tempo, vá até nossa seção de contatos, e mande uma mensagem, ligue-nos ou
+        compareça presencialmente, será um prazer ter uma conversa com você! Somos a Book Land
+    </string>
+    <string name="contact_title">Deseja entrar em contato?</string>
+
+    <array name="books_img">
+        <item>@drawable/capa_1</item>
+        <item>@drawable/capa_2</item>
+        <item>@drawable/capa_3</item>
+        <item>@drawable/capa_4</item>
+        <item>@drawable/capa_5</item>
+        <item>@drawable/capa_6</item>
+    </array>
+
+    <string-array name="books_titles">
+        <item>IT: A Coisa</item>
+        <item>O assassinato no expresso do oriente</item>
+        <item>Tartarugas até lá embaixo</item>
+        <item>Fahrenheit 451</item>
+        <item>As coisas que você só vê quando desacelera</item>
+        <item>Deuses americanos</item>
+    </string-array>
+
+    <string-array name="books_desc">
+        <item>It é um romance de terror de 1986 do autor estadunidense Stephen King. Foi seu 22º livro e seu 17º romance escrito em seu próprio nome. A história segue as experiências de sete crianças, que são aterrorizadas por uma entidade maligna que explora os medos de suas vítimas para se disfarçar enquanto caçam suas presas.</item>
+        <item>O Assassinato no Expresso do Oriente é um romance policial escrito por Agatha Christie e protagonizado pelo detetive belga Hercule Poirot. Foi publicado pela primeira vez no Reino Unido em 1º de Janeiro de 1934, pela editora Collins Crime Club.</item>
+        <item>Tartarugas até la embaixo é um romance escrito pelo autor americano John Green. Foi oficialmente lançado em 10 de outubro de 2017, sendo o quinto livro de Green. Sua publicação foi anunciada na VidCon de 2017. Foi também seu primeiro livro publicado desde a A Culpa É das Estrelas, de 2012.</item>
+        <item>Fahrenheit 451 é um romance distópico de ficção científica soft, escrito por Ray Bradbury e publicado pela primeira vez em 1953. O conceito inicial do livro começou em 1947 com o conto "Bright Phoenix"</item>
+        <item>Mais de 300 mil exemplares vendidos no Brasil."Um livro para os dias de hoje, repleto de verdades universais, lindamente escrito e ilustrado. Cada parágrafo possui a própria semente, que cria raízes para a sabedoria mais profunda e atemporal.</item>
+        <item>Deuses Americanos é um romance de Neil Gaiman. O romance é uma mistura de fantasia e várias vertentes da mitologia antiga e moderna, tudo centralizado em um misterioso e taciturno protagonista Shadow. É o quarto romance de Neil Gaiman, sendo precedido por Good Omens, Neverwhere e Stardust.</item>
+    </string-array>
+
+    <string-array name="books_author">
+        <item>Stephen King</item>
+        <item>Agatha Christie</item>
+        <item>John Green</item>
+        <item>Ray Bradbury</item>
+        <item>Haemin Sunin</item>
+        <item>Nail Gaiman</item>
+    </string-array>
+
+    <string-array name="books_year">
+        <item>24 de Julho de 2014</item>
+        <item>9 de Março de 2020</item>
+        <item>12 de Outubro de 2017</item>
+        <item>1 de Julho de 2012</item>
+        <item>2 de Outubro de 2017</item>
+        <item>29 de Outubro de 2016</item>
+    </string-array>
+
+    <string-array name="books_gender">
+        <item>Terror</item>
+        <item>Romance Policial</item>
+        <item>Romance</item>
+        <item>Ficção distópica</item>
+        <item>Espiritualidade</item>
+        <item>Fantasia</item>
+    </string-array>
+
+    <string-array name="books_publisher">
+        <item>Suma</item>
+        <item>HarperCollins</item>
+        <item>Intrínseca</item>
+        <item>Biblioteca Azul</item>
+        <item>Sextante</item>
+        <item>Intrínseca</item>
+    </string-array>
+
+    <string-array name="books_price">
+        <item>R$ 58,90</item>
+        <item>R$ 26,90</item>
+        <item>R$ 29,89</item>
+        <item>R$ 25,40</item>
+        <item>R$ 36,99</item>
+        <item>R$ 29,90</item>
+    </string-array>
+</resources>
